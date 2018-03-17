@@ -3,11 +3,11 @@ Podcast Web API
 The Podcast Web api is a web audio player specially crafted for listening to podcasts.
 Experimented by using in our <a href="https://besttheme.com/podcast-wordpress-theme/">project</a> for the podcast audio section. The player is extensible and ships with many default extensions. The player is completely themeable, and can change the markup, which comes with a responsive default theme.
 <ul>
-<li><a href="https://github.com/inetvirtual/podcast-api/#extensions">Extensions</a>
-<li><a href="https://github.com/inetvirtual/podcast-api/#usage">Usage</a>
-<li><a href="https://github.com/inetvirtual/podcast-api/#contribute">Contribute</a>
+<li><a href="https://github.com/inetvirtual/podcast-api#extensions">Extensions</a>
+<li><a href="https://github.com/inetvirtual/podcast-api#usage">Usage</a>
+<li><a href="https://github.com/inetvirtual/podcast-api#contribute">Contribute</a>
 </ul>
-<h2><a href="#extensions"></a>Extensions</h2>
+<h2><a href="#extensions"></a>Extension</h2>
 <ul>
 <li>Sharing - This holds sharing options for different social networks, direct link sharing and the embed code.</li>
 <li>Chaptermarks - If the podcaster supplies chaptermarks for an episode listeners can will see where in the episode they currently are and jump to a chaptermark with a click or tap.</li>
